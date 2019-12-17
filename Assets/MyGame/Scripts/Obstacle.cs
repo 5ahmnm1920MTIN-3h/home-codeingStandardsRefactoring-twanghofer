@@ -30,4 +30,5 @@ public class Obstacle : MonoBehaviour
     {
         rb.velocity = Vector2.left * MoveSpeed;
     }
+
 }
