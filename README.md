@@ -22,6 +22,6 @@ Sauberer Code ist leichter lesbar, andere Entwickler können ihn lesen und verst
 
 Ein Konstrukt in einem Code, das möglicherweise ein tiefgehendes Problem beinhaltet.
 
-# Recherche von 10 Code Smells die Eure Projekt betreffen können, inkl. Beschreibung und Beispiel.
+
 
 
